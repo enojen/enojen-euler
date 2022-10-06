@@ -14,7 +14,6 @@ public class EvenFibonacciNumbers {
         evenFibonacciNumbers();
 
     }
-
     private static void evenFibonacciNumbers() {
         int sum = 0;
         int firstTerm = 1;
